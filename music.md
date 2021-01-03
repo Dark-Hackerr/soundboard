@@ -4,7 +4,7 @@
 <head>
 	<link rel="shortcut icon" type="image/jpg" href="Spotify.png">
 	</link>
-	<title>Spotify sounboard</title>
+	<title>Spotify  sounboard</title>
 
 
 
